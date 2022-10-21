@@ -1,0 +1,11 @@
+{
+  "name": "fullfilment",
+  "version": "1.0.0",
+  "description": "dialogFlow program",
+  "main": "index.js",
+  "scripts": {
+    "test": "\" This is a test\""
+  },
+  "author": "izu",
+  "license": "ISC"
+}
